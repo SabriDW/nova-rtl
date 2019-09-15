@@ -1,0 +1,30 @@
+{
+  "name": "hdrm147/nova-rtl",
+  "description": "Nova RTL Support",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Haidar Mahmoud",
+      "email": "hdrm147@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": "^7.2",
+    "illuminate/support": "6.0.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Hdrm147\\NovaRTL\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Hdrm147\\NovaRTL\\NovaRTLServiceProvider"
+      ]
+    }
+  }
+}

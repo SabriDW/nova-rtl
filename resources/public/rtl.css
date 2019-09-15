@@ -1,0 +1,104 @@
+html {
+    direction: rtl;
+}
+
+
+th {
+    text-align: right !important;
+}
+
+.ml-2 {
+    margin-left: 0 !important;
+    margin-right: 0.5rem !important;
+}
+
+.ml-3 {
+    margin-left: 0 !important;
+    margin-right: 0.75rem !important;
+}
+
+.pl-search {
+    padding-left: 0.5rem !important;
+    padding-right: 2.75rem !important;
+}
+
+.ml-auto {
+    margin-right: auto !important;
+    margin-left: 0.5rem !important;
+}
+
+.mr-6 {
+    margin-right: 0 !important;
+    margin-left: 1.5rem !important;
+}
+
+.mr-1 {
+    margin-right: 0 !important;
+    margin-left: .25rem !important;
+}
+
+.mr-3 {
+    margin-right: 0;
+    margin-left: 0.75rem;
+}
+
+.form-file {
+    direction: ltr !important;
+}
+
+.mr-10 {
+    margin-right: 0 !important;
+    margin-left: 10px !important;
+}
+
+.mr-5 {
+    margin-right: 0 !important;
+    margin-left: 5px !important;
+}
+
+.m-0 {
+    margin: 0 !important;
+}
+
+
+.text-left {
+    text-align: right !important;
+}
+
+.pl-4 {
+    padding-left: unset !important;
+    padding-right: 1rem !important;
+}
+
+.form-control.form-select.mr-2 {
+    margin-left: .5rem !important;
+    margin-right: unset !important;
+}
+
+
+.footer-fixed {
+    left: unset !important;
+    right: 10rem;
+
+}
+
+
+a {
+//padding-right: 1rem;
+
+}
+
+
+.sidebar-icon {
+    margin-right: 1rem !important;
+
+}
+
+.side-margin {
+    margin-left: 1rem !important;
+}
+
+.notifications-panel {
+    left: 0 !important;
+    right: unset !important;
+}
