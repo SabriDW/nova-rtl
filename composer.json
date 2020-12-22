@@ -5,15 +5,15 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Haidar Mahmoud",
-      "email": "hdrm147@gmail.com"
+      "name": "Sabri Monaf",
+      "email": "me@sabri.io"
     }
   ],
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
     "php": "^7.2",
-    "illuminate/support": "6.0.1"
+    "illuminate/support": "^7.2"
   },
   "autoload": {
     "psr-4": {
