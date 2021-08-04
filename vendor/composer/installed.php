@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'a38f7e1ae9887730708a5430e79ff1993d26b7f7',
+    'reference' => '2ab7f220179cff565ea43b78488d5db80a589d51',
     'name' => 'hdrm147/nova-rtl',
   ),
   'versions' => 
@@ -27,43 +27,25 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'a38f7e1ae9887730708a5430e79ff1993d26b7f7',
-    ),
-    'illuminate/collections' => 
-    array (
-      'pretty_version' => 'v8.53.0',
-      'version' => '8.53.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'd470b6b804de3db1a8a91b0900ad3cc9cca61ab5',
+      'reference' => '2ab7f220179cff565ea43b78488d5db80a589d51',
     ),
     'illuminate/contracts' => 
     array (
-      'pretty_version' => 'v8.53.0',
-      'version' => '8.53.0.0',
+      'pretty_version' => 'v7.30.4',
+      'version' => '7.30.4.0',
       'aliases' => 
       array (
       ),
-      'reference' => '504a34286a1b4c5421c43087d6bd4e176138f6fb',
-    ),
-    'illuminate/macroable' => 
-    array (
-      'pretty_version' => 'v8.53.0',
-      'version' => '8.53.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '300aa13c086f25116b5f3cde3ca54ff5c822fb05',
+      'reference' => '7d964384f0283bd7525ae7b5baa7ad32e5503b8e',
     ),
     'illuminate/support' => 
     array (
-      'pretty_version' => 'v8.53.0',
-      'version' => '8.53.0.0',
+      'pretty_version' => 'v7.30.4',
+      'version' => '7.30.4.0',
       'aliases' => 
       array (
       ),
-      'reference' => '4138cf066c8c910362491057ad522dd63d45fb1b',
+      'reference' => '1c95b8f842308ff15a56d29d897d3bda29001f1c',
     ),
     'nesbot/carbon' => 
     array (
